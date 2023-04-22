@@ -1,0 +1,23 @@
+.caption,
+.ingredients,
+.steps {
+    font-family: 'Brush Script MT', cursive;
+    color:#4c004c;
+
+}
+.ingredients,
+.steps {
+    font-size: 56px;
+}
+.ing-list,
+.steps-list {
+    font-size: 40px;
+}
+.ing-list {
+    font-family: 'Times New Roman', serif;
+    background-color:rgb(26, 104, 78);
+}
+.steps-list {
+    font-family: 'Times New Roman', serif;
+    background-color: #ffe456
+}

@@ -1,0 +1,28 @@
+.title,
+.caption,
+.description
+{
+    text-align:center;
+}
+.ing-list,
+.steps-list {
+    background-color: #cdc578;
+}
+.ingredients,
+.steps {
+    background-color: #8ab345;
+    font-weight: 400;
+    font-family: 'Arial', sans-serif;
+}
+.title{
+    font-family: 'Brush Script MT', cursive;
+}
+.description{
+    font-family: 'Brush Script MT', cursive;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+}

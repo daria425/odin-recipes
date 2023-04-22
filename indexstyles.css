@@ -1,0 +1,11 @@
+.heading{
+    color:maroon;
+    font-size: 56px;
+    text-align: center;
+}
+.first-list,
+.second-list {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
